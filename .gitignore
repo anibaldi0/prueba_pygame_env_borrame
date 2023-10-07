@@ -1,0 +1,3 @@
+#agregar archivos o directorios para que se ignoren al subir al repositorio
+*.pyc
+/pygame_env
